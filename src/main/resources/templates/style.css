@@ -1,0 +1,259 @@
+.div1{
+    position: relative;
+    width: 1637px;
+    height: 992px;
+
+    background: #111010;
+}
+.logo{
+    position: absolute;
+    width: 66px;
+    height: 61px;
+    left: 120px;
+    top: 60px;
+
+    background: url(../img/logo.png);
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+    gap: 56px;
+
+    position: absolute;
+    width: 558px;
+    height: 34px;
+    left: 959px;
+    top: 73px;
+}
+.n1{
+    position: absolute;
+    width: 141px;
+    height: 19px;
+    left: 958px;
+    top: 80px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+
+    color: #818487;
+}
+.n2{
+   position: absolute;
+   width: 46px;
+   height: 19px;
+   left: 1164px;
+   top: 80px;
+
+   font-family: 'Rubik';
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 19px;
+   /* identical to box height */
+
+   color: #818487;
+
+}
+.n3{
+    position: absolute;
+    width: 66px;
+    height: 19px;
+    left: 1275px;
+    top: 80px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #818487;
+
+}
+.but{
+     position: absolute;
+     width: 111px;
+     height: 34px;
+     left: calc(50% - 111px/2 + 643px);
+     top: 73px;
+
+     background: #279DE0;
+     border-radius: 7px;
+}
+.n4{
+    position: absolute;
+    left: 1439px;
+    right: 152px;
+    top: 81px;
+    bottom: 893px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+.h1{
+    position: absolute;
+    width: 743px;
+    height: 228px;
+    left: 120px;
+    top: 220px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 76px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.h2{
+    position: absolute;
+    width: 478px;
+    height: 62px;
+    left: 120px;
+    top: 530px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.img{
+    position: absolute;
+    width: 754px;
+    height: 582px;
+    left: 763px;
+    top: 210px;
+    background: url(../img/Saly-44.png);
+}
+
+.but2{
+    position: absolute;
+    width: 202px;
+    height: 56px;
+    left: 120px;
+    top: 642px;
+
+    background: #3880D0;
+    border-radius: 7px;
+}
+.go{
+    position: absolute;
+    width: 59px;
+    height: 19px;
+    left: 191px;
+    bottom: 312px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+
+}
+.t3{
+   position: absolute;
+   width: 42px;
+   height: 42px;
+   left: 407px;
+   top: 649px;
+}
+.dem{
+    position: absolute;
+    left: 465px;
+    right: 1057px;
+    top: 657px;
+    bottom: 314px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+.brend{
+    position: absolute;
+    width: 296px;
+    height: 21px;
+    left: 120px;
+    top: 762px;
+
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #79797A;
+}
+
+.l1{
+    position: absolute;
+    width: 107.2px;
+    height: 34px;
+    left: 136.27px;
+    top: 816px;
+    background: url(../img/Company logo.svg);
+}
+.l2{
+    position: absolute;
+    width: 107.2px;
+    height: 34px;
+    left: 272.14px;
+    top: 816px;
+    background: url(../img/Company logo-1.svg);
+}
+.l3{
+    position: absolute;
+    width: 86px;
+    height: 34px;
+    left: 399px;
+    top: 816px;
+    background: url(../img/Company logo-2.svg);
+}
+.l4{
+    position: absolute;
+    width: 86px;
+    height: 34px;
+    left: 540px;
+    top: 816px;
+
+    background: url(../img/Company logo-3.svg);
+}
